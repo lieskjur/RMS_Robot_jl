@@ -1,0 +1,5 @@
+# Specify filepatterns you want git to ignore.
+
+FIGs/*
+*.sublime-project
+*.sublime-workspace
